@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+.superstyle {
+    background-color: grey;
+    width: 50%;
+    border: 1px solid red;
+}
